@@ -4,7 +4,7 @@ class PagesController < ApplicationController
 
   end
 
-  def fakju
+  def about
 
   end
 
