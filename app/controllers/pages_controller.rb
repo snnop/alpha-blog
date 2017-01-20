@@ -4,7 +4,7 @@ class PagesController < ApplicationController
 
   end
 
-  def kliknijwziemniaczka
+  def fakju
 
   end
 
