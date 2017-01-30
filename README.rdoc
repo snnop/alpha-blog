@@ -1,1 +1,1 @@
-ssij pałke manganianie
+rails s -b $IP -p $PORT
