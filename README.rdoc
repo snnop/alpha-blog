@@ -1,1 +1,2 @@
 rails s -b $IP -p $PORT
+  <%= debug(params) if Rails.env.development? %>
